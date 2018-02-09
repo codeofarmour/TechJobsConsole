@@ -14,7 +14,7 @@ namespace TechJobsConsole
         {
             LoadData();
             return AllJobs;
-        }
+        }        
 
         /*
          * Returns a list of all values contained in a given column,
